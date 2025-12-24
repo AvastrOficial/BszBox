@@ -59,15 +59,8 @@
 
 - Interfaz moderna y responsive – funciona en todos los dispositivos
 
-┌─────────────────────────────────────────────────────┐
-│                    BSZBOX v1.0                      │
-├─────────────────────────────────────────────────────┤
-│ ☁️ Arrastra tu archivo aquí...                      │
-│                                                     │
-│ [========== ÁREA DE SUBIDA ==========]              │
-│                                                     │
-│ 📝 Límite: 800KB • Anónimo • Instantáneo           │
-└─────────────────────────────────────────────────────┘
+<img width="488" height="227" alt="image" src="https://github.com/user-attachments/assets/339dfef7-b655-441d-85c3-cd5f090e5596" />
+
 
 ## 🚀 ¿Para quién es BszBox?
 - 👨‍💻 Desarrolladores
@@ -78,20 +71,12 @@
 ✓ Configuraciones
 
 ## 👨‍🎨 Creativos & Diseñadores
-╔══════════════════════════════════════╗
-║ 🎨 Portafolios digitales             ║
-║ 🖼️ Mockups para clientes             ║
-║ 📊 Recursos visuales                 ║
-║ 🖼️ Galerías personales               ║
-╚══════════════════════════════════════╝
+<img width="369" height="155" alt="image" src="https://github.com/user-attachments/assets/efa5e2d2-622c-4a03-8d51-f9bb1f24f22b" />
+
 
 ## 🏢 Profesionales
-┌─────────────────────────────────────┐
-│ 📈 Propuestas comerciales           │
-│ 🎨 Diseños para aprobación          │
-│ 📋 Reportes ejecutivos              │
-│ 📊 Presentaciones                   │
-└─────────────────────────────────────┘
+<img width="341" height="159" alt="image" src="https://github.com/user-attachments/assets/e48d7175-89de-4a67-a864-da3d0bb2a430" />
+
 
 # 📋 Guía Rápida de Uso
 -  Subir Archivo
@@ -100,13 +85,7 @@
 - Método 3: Seleccionar desde dispositivo
 
 # 2️⃣ Procesamiento Automático
-╔══════════════════════════════════════╗
-║ 🔄 ANALIZANDO ARCHIVO...             ║
-║ ✓ Validando tamaño                   ║
-║ 🔧 Comprimiendo                     ║
-║ 📤 Subiendo                          ║
-║ 🔗 Generando enlace                  ║
-╚══════════════════════════════════════╝
+<img width="364" height="173" alt="image" src="https://github.com/user-attachments/assets/c25ef8a4-89ae-44a8-86e2-5282f480a418" />
 
 ### 3️⃣ Compartir
 Enlace: 
