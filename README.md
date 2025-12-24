@@ -45,21 +45,15 @@
 ```
 
 ## 🛡️ Privacidad Total
-┌─────────────────────────────────────────┐
-│ ✅ SIN registro                         │
-│ ✅ SIN cookies de tracking              │
-│ ✅ SIN datos personales                 │
-│ ✅ Bins privados en JSONBin.io          │
-└─────────────────────────────────────────┘
+ ✅ SIN registro                         
+ ✅ SIN cookies de tracking              
+ ✅ SIN datos personales                 
+ ✅ Bins privados en JSONBin.io          
+
 
 ### 📊 Formatos Soportados
-╔══════════════╦══════════════╦══════════════╗
-║ 📷 IMÁGENES  ║ 🎥 VIDEOS    ║ 📄 DOCUMENTOS║
-╠══════════════╬══════════════╬══════════════╣
-║ JPG / PNG    ║ MP4 / AVI    ║ PDF          ║
-║ GIF / WEBP   ║ MOV / WEBM   ║ DOC / DOCX   ║
-║              ║              ║ TXT / ZIP    ║
-╚══════════════╩══════════════╩══════════════╝
+
+<img width="379" height="163" alt="image" src="https://github.com/user-attachments/assets/6de222ab-3db6-4609-b586-0837d4314fb0" />
 
 # 🎨 Interfaz Visual
 
