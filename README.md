@@ -18,27 +18,13 @@
 
 **BszBox** es un servicio web minimalista de almacenamiento temporal que te permite **subir, comprimir y compartir archivos mediante enlaces**, sin registros, sin cookies y **100% anónimo**.
 
-╔═══════════════════════════════════════╗
-║ 🚀 FLUJO BSZBOX SIMPLE 🚀 ║
-╠═══════════════════════════════════════╣
-║ 1️⃣ Arrastra tu archivo (<800KB) ║
-║ 2️⃣ Compresión automática inteligente ║
-║ 3️⃣ Generación de enlace permanente ║
-║ 4️⃣ ¡Comparte con quien quieras! ║
-╚═══════════════════════════════════════╝
-
-
 ---
 
 ## ✨ Características Principales
 
 ### 🎯 Compartición Instantánea
 
-
-╔══════════════════════════════════════════════════════════╗
-║ 📤 SUBIR → 🔗 ENLACE → 🌐 COMPARTIR ║
-╚══════════════════════════════════════════════════════════╝
-
+ 📤 SUBIR → 🔗 ENLACE → 🌐 COMPARTIR 
 
 - Drag & Drop intuitivo  
 - Sin límites de cantidad de archivos  
