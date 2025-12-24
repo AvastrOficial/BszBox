@@ -10,9 +10,9 @@
 
 🚀 **Probar Demo** • 📖 **Documentación** • 🐛 **Reportar Bug**
 
-</div>
-
 <img width="811" height="725" alt="image" src="https://github.com/user-attachments/assets/689d4ac6-4235-4d68-b422-2d44f10d3c41" />
+
+</div>
 
 ---
 
